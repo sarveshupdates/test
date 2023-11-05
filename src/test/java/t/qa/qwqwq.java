@@ -7,6 +7,7 @@ public class qwqwq {
 		System.out.println("cczzczcz");
 		System.out.println("edited by some one else");
 		System.out.println("edited by otherrr   rr   some one else");
+		System.out.println("****************************************");
 	}
 
 }
